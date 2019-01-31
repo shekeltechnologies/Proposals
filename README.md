@@ -26,7 +26,5 @@ To view and participate in discussion on proposals that have not been submitted 
 1. Login to your GitHub account
 2. Create a proposal draft as a [GitHub Issue](https://github.com/shekeltechnologies/Proposals/issues).
 3. Based on community feedback, refine the proposal to make it more suitable for voting on
-4. Once ready, it will be merged into the 'final' directory of the proposals repository
-5. You will receive a READ-ONLY short link from an Admin
-6. Use the link to submit the proposal on the blockchain. Step by step instructions on how to do this are [here](https://github.com/shekeltechnologies/Proposals/blob/master/CREATE-PROPOSAL.md)
+4. Once ready, use the GitHub issue URL of your proposal (e.g. `https://github.com/shekeltechnologies/Proposals/issues/999`) to submit it on the blockchain. Step by step instructions on how to do this are [here](https://github.com/shekeltechnologies/Proposals/blob/master/CREATE-PROPOSAL.md)
 7. Wait for the MasterNode owners to vote on your proposal. Only 1 vote is allowed per MasterNode instance.
